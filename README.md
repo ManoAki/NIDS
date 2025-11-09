@@ -1,4 +1,4 @@
-# Security Event Monitoring System
+# Network Intrusion Detection System
 
 A real-time intrusion detection and security event monitoring system built with Flask and WebSocket for live event tracking.
 
