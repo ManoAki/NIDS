@@ -1,0 +1,270 @@
+2025-04-23 13:46:54,531 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 13:46:54,531 - __main__ - INFO - Starting application setup...
+2025-04-23 13:46:54,533 - __main__ - INFO - Database tables created successfully
+2025-04-23 13:46:54,560 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 13:46:54,594 - werkzeug - INFO -  * Restarting with stat
+2025-04-23 13:46:54,955 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 13:46:54,955 - __main__ - INFO - Starting application setup...
+2025-04-23 13:46:54,957 - __main__ - INFO - Database tables created successfully
+2025-04-23 13:46:54,976 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 13:46:54,981 - werkzeug - WARNING -  * Debugger is active!
+2025-04-23 13:46:54,982 - werkzeug - INFO -  * Debugger PIN: 852-177-933
+2025-04-23 13:47:10,312 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:10,312 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:10,341 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:10] "GET / HTTP/1.1" 200 19745 0.028937
+2025-04-23 13:47:10,428 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:10,428 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:10,435 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:10] "GET /static/css/style.css HTTP/1.1" 304 185 0.006854
+2025-04-23 13:47:10,436 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:10,436 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:10,438 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:10] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.002070
+2025-04-23 13:47:10,439 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:10,440 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:10,442 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:10] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.002895
+2025-04-23 13:47:10,508 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:10,508 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:10,509 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:10] "GET /favicon.ico HTTP/1.1" 404 124 0.001127
+2025-04-23 13:47:13,799 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:13,800 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:13,812 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:13] "GET /events HTTP/1.1" 200 66330 0.012735
+2025-04-23 13:47:13,918 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:13,918 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:13,919 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:13] "GET /static/css/style.css HTTP/1.1" 304 185 0.001070
+2025-04-23 13:47:13,922 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:13,923 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:13,924 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:13] "GET /static/js/events.js HTTP/1.1" 304 185 0.001527
+2025-04-23 13:47:13,951 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:13,951 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:13,952 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:13] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000998
+2025-04-23 13:47:15,455 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:15,455 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:15,463 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:15] "GET /dashboard HTTP/1.1" 200 19745 0.008403
+2025-04-23 13:47:15,529 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:15,529 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:15,532 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:15] "GET /static/css/style.css HTTP/1.1" 304 185 0.003160
+2025-04-23 13:47:15,532 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:15,532 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:15,535 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:15] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.002582
+2025-04-23 13:47:15,563 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:15,563 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:15,565 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:15] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001939
+2025-04-23 13:47:17,006 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:17,006 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:17,012 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:17] "GET /events HTTP/1.1" 200 66330 0.005201
+2025-04-23 13:47:17,104 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:17,104 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:17,106 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:17] "GET /static/css/style.css HTTP/1.1" 304 185 0.001460
+2025-04-23 13:47:17,106 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:17,106 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:17,107 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:17] "GET /static/js/events.js HTTP/1.1" 304 185 0.000948
+2025-04-23 13:47:17,158 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:17,158 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:17,159 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:17] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000961
+2025-04-23 13:47:18,334 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:18,334 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:18,341 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:18] "GET /events HTTP/1.1" 200 66330 0.007197
+2025-04-23 13:47:18,403 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:18,403 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:18,404 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:18] "GET /static/css/style.css HTTP/1.1" 304 185 0.001133
+2025-04-23 13:47:18,405 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:18,405 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:18,407 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:18] "GET /static/js/events.js HTTP/1.1" 304 185 0.002276
+2025-04-23 13:47:18,445 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:18,446 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:18,448 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:18] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.002650
+2025-04-23 13:47:18,943 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:18,944 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:18,951 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:18] "GET /dashboard HTTP/1.1" 200 19745 0.007738
+2025-04-23 13:47:19,011 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:19,011 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:19,012 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:19] "GET /static/css/style.css HTTP/1.1" 304 185 0.001028
+2025-04-23 13:47:19,013 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:19,013 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:19,013 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:19] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000625
+2025-04-23 13:47:19,035 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:47:19,036 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:47:19,037 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:47:19] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001329
+2025-04-23 13:48:19,302 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:19,302 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:19,316 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:19] "GET /dashboard HTTP/1.1" 200 19745 0.013387
+2025-04-23 13:48:19,374 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:19,375 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:19,376 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:19] "GET /static/css/style.css HTTP/1.1" 304 185 0.001364
+2025-04-23 13:48:19,376 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:19,376 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:19,377 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:19] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000743
+2025-04-23 13:48:19,412 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:19,412 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:19,414 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:19] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001939
+2025-04-23 13:48:20,396 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:20,396 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:20,410 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:20] "GET /dashboard HTTP/1.1" 200 19745 0.013716
+2025-04-23 13:48:20,469 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:20,469 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:20,471 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:20] "GET /static/css/style.css HTTP/1.1" 304 185 0.002439
+2025-04-23 13:48:20,472 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:20,472 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:20,473 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:20] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.001490
+2025-04-23 13:48:20,514 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 13:48:20,514 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 13:48:20,515 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 13:48:20] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001032
+2025-04-23 14:47:25,174 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 14:47:25,175 - __main__ - INFO - Starting application setup...
+2025-04-23 14:47:25,176 - __main__ - INFO - Database tables created successfully
+2025-04-23 14:47:25,202 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 14:47:25,236 - werkzeug - INFO -  * Restarting with stat
+2025-04-23 14:47:25,518 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 14:47:25,518 - __main__ - INFO - Starting application setup...
+2025-04-23 14:47:25,520 - __main__ - INFO - Database tables created successfully
+2025-04-23 14:47:25,536 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 14:47:25,539 - werkzeug - WARNING -  * Debugger is active!
+2025-04-23 14:47:25,539 - werkzeug - INFO -  * Debugger PIN: 588-128-924
+2025-04-23 14:47:35,437 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:47:35,437 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:47:35,460 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:47:35] "GET / HTTP/1.1" 200 19745 0.023409
+2025-04-23 14:47:35,503 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:47:35,503 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:47:35,507 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:47:35] "GET /static/css/style.css HTTP/1.1" 304 185 0.004321
+2025-04-23 14:47:35,508 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:47:35,508 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:47:35,508 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:47:35] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000765
+2025-04-23 14:47:35,509 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:47:35,509 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:47:35,510 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:47:35] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.001066
+2025-04-23 14:47:35,556 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:47:35,557 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:47:35,558 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:47:35] "GET /favicon.ico HTTP/1.1" 404 124 0.001670
+2025-04-23 14:51:44,936 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 14:59:30,935 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:59:30,935 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:59:30,946 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:59:30] "GET /events HTTP/1.1" 200 66330 0.011287
+2025-04-23 14:59:30,996 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:59:30,996 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:59:30,997 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:59:30] "GET /static/css/style.css HTTP/1.1" 304 185 0.001255
+2025-04-23 14:59:31,000 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:59:31,000 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:59:31,001 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:59:31] "GET /static/js/events.js HTTP/1.1" 304 185 0.001087
+2025-04-23 14:59:31,020 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 14:59:31,020 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 14:59:31,021 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 14:59:31] "GET /static/images/logo.svg HTTP/1.1" 200 493 0.000954
+2025-04-23 15:04:36,481 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 15:04:48,154 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:04:48,154 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:04:48,159 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:04:48] "GET /events HTTP/1.1" 200 66319 0.004813
+2025-04-23 15:04:48,191 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:04:48,191 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:04:48,192 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:04:48] "GET /static/css/style.css HTTP/1.1" 304 185 0.001010
+2025-04-23 15:04:48,192 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:04:48,192 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:04:48,193 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:04:48] "GET /static/js/events.js HTTP/1.1" 304 185 0.000962
+2025-04-23 15:04:48,209 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:04:48,209 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:04:48,210 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:04:48] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001253
+2025-04-23 15:05:21,222 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 15:05:21,222 - __main__ - INFO - Starting application setup...
+2025-04-23 15:05:21,224 - __main__ - INFO - Database tables created successfully
+2025-04-23 15:05:21,239 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 15:05:21,267 - werkzeug - INFO -  * Restarting with stat
+2025-04-23 15:05:21,546 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 15:05:21,546 - __main__ - INFO - Starting application setup...
+2025-04-23 15:05:21,547 - __main__ - INFO - Database tables created successfully
+2025-04-23 15:05:21,562 - __main__ - INFO - Starting web application on http://127.0.0.1:5000
+2025-04-23 15:05:21,566 - werkzeug - WARNING -  * Debugger is active!
+2025-04-23 15:05:21,566 - werkzeug - INFO -  * Debugger PIN: 588-128-924
+2025-04-23 15:05:25,143 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:25,143 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:25,155 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:25] "GET /events HTTP/1.1" 200 66319 0.012610
+2025-04-23 15:05:25,178 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:25,179 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:25,182 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:25] "GET /static/css/style.css HTTP/1.1" 304 185 0.003792
+2025-04-23 15:05:25,183 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:25,183 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:25,184 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:25] "GET /static/js/events.js HTTP/1.1" 304 185 0.000894
+2025-04-23 15:05:25,196 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:25,196 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:25,197 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:25] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001221
+2025-04-23 15:05:27,289 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:27,290 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:27,307 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:27] "GET /dashboard HTTP/1.1" 200 19745 0.017906
+2025-04-23 15:05:27,340 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:27,341 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:27,342 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:27] "GET /static/css/style.css HTTP/1.1" 304 185 0.001339
+2025-04-23 15:05:27,343 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:27,343 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:27,344 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:27] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000981
+2025-04-23 15:05:27,360 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:05:27,360 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:05:27,361 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:05:27] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001098
+2025-04-23 15:06:32,315 INFO: Web app startup [in /home/sri/Downloads/fun/web_app.py:573]
+2025-04-23 15:07:01,613 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:01,613 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:01,619 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:01] "GET /events HTTP/1.1" 200 66319 0.006074
+2025-04-23 15:07:01,666 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:01,666 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:01,667 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:01] "GET /static/css/style.css HTTP/1.1" 304 185 0.001009
+2025-04-23 15:07:01,667 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:01,667 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:01,668 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:01] "GET /static/js/events.js HTTP/1.1" 304 185 0.000762
+2025-04-23 15:07:01,685 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:01,685 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:01,686 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:01] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000965
+2025-04-23 15:07:26,235 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:26,236 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:26,243 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:26] "GET /dashboard HTTP/1.1" 200 19745 0.007337
+2025-04-23 15:07:26,279 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:26,279 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:26,280 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:26] "GET /static/css/style.css HTTP/1.1" 304 185 0.001213
+2025-04-23 15:07:26,283 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:26,283 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:26,284 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:26] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.001403
+2025-04-23 15:07:26,313 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:26,314 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:26,315 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:26] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001642
+2025-04-23 15:07:53,943 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:53,943 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:53,948 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:53] "GET /events HTTP/1.1" 200 66319 0.004617
+2025-04-23 15:07:53,993 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:53,993 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:53,994 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:53] "GET /static/css/style.css HTTP/1.1" 304 185 0.001076
+2025-04-23 15:07:53,994 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:53,994 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:53,995 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:53] "GET /static/js/events.js HTTP/1.1" 304 185 0.000744
+2025-04-23 15:07:54,009 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:07:54,009 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:07:54,010 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:07:54] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000910
+2025-04-23 15:10:03,408 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:10:03,408 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:10:03,415 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:10:03] "GET /dashboard HTTP/1.1" 200 19745 0.006444
+2025-04-23 15:10:03,453 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:10:03,453 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:10:03,454 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:10:03] "GET /static/css/style.css HTTP/1.1" 304 185 0.001328
+2025-04-23 15:10:03,455 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:10:03,455 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:10:03,456 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:10:03] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000778
+2025-04-23 15:10:03,473 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:10:03,473 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:10:03,474 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:10:03] "GET /static/images/logo.svg HTTP/1.1" 200 493 0.000917
+2025-04-23 15:11:36,824 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:36,824 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:36,831 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:36] "GET /dashboard HTTP/1.1" 200 19745 0.007205
+2025-04-23 15:11:36,858 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:36,858 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:36,859 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:36] "GET /static/css/style.css HTTP/1.1" 304 185 0.001439
+2025-04-23 15:11:36,860 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:36,860 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:36,860 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:36] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000858
+2025-04-23 15:11:36,880 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:36,881 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:36,881 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:36] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.000912
+2025-04-23 15:11:37,656 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:37,656 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:37,664 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:37] "GET /dashboard HTTP/1.1" 200 19745 0.008078
+2025-04-23 15:11:37,690 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:37,690 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:37,691 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:37] "GET /static/css/style.css HTTP/1.1" 304 185 0.000982
+2025-04-23 15:11:37,691 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:37,691 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:37,692 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:37] "GET /static/js/dashboard.js HTTP/1.1" 304 185 0.000541
+2025-04-23 15:11:37,706 - geventwebsocket.handler - DEBUG - Initializing WebSocket
+2025-04-23 15:11:37,706 - geventwebsocket.handler - DEBUG - Validating WebSocket request
+2025-04-23 15:11:37,707 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2025-04-23 15:11:37] "GET /static/images/logo.svg HTTP/1.1" 304 182 0.001071

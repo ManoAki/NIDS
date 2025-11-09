@@ -1,0 +1,223 @@
+2025-04-21 10:54:06,001 - WARNING - UDP FLOOD ATTACK from 192.168.124.238
+2025-04-21 10:54:10,396 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 10:54:10,396 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 10:54:10,402 - WARNING - BLOCKED 192.168.124.238 - UDP flood attack detected
+2025-04-21 10:54:10,407 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 10:54:50,702 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 10:55:42,602 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 10:55:42,922 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 10:57:21,261 - WARNING - UDP FLOOD ATTACK from 192.168.124.84
+2025-04-21 10:57:25,646 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 10:57:25,646 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 10:57:25,646 - INFO - Attempting to block IP 192.168.124.84
+2025-04-21 10:57:25,652 - WARNING - BLOCKED 192.168.124.84 - UDP flood attack detected
+2025-04-21 10:57:25,657 - INFO - Successfully verified block for 192.168.124.84
+2025-04-21 10:57:25,663 - WARNING - UDP FLOOD ATTACK from 192.168.124.238
+2025-04-21 10:57:28,036 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 10:57:29,886 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 10:57:29,886 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 10:57:29,892 - WARNING - BLOCKED 192.168.124.238 - UDP flood attack detected
+2025-04-21 10:57:29,897 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 11:06:10,911 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:06:41,246 - WARNING - UDP FLOOD ATTACK from 192.168.124.238
+2025-04-21 11:06:45,279 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 11:06:45,279 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 11:06:45,285 - WARNING - BLOCKED 192.168.124.238 - UDP flood attack detected
+2025-04-21 11:06:45,290 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 11:07:15,423 - INFO - Nmap scan detected from 192.168.124.84. Score: 6.5
+2025-04-21 11:07:15,423 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': False, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:07:15,423 - INFO - Attempting to block IP 192.168.124.84
+2025-04-21 11:07:15,429 - WARNING - BLOCKED 192.168.124.84 - Nmap SYN scan attack detected
+2025-04-21 11:07:15,436 - INFO - Successfully verified block for 192.168.124.84
+2025-04-21 11:07:24,393 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:08:21,587 - INFO - Nmap scan detected from 13.107.5.93. Score: 7.0
+2025-04-21 11:08:21,587 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:08:21,587 - INFO - Attempting to block IP 13.107.5.93
+2025-04-21 11:08:21,593 - WARNING - BLOCKED 13.107.5.93 - Nmap SYN scan attack detected
+2025-04-21 11:08:21,598 - INFO - Successfully verified block for 13.107.5.93
+2025-04-21 11:08:30,228 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:08:48,739 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:48,930 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:49,206 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:49,445 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:49,613 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:49,799 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:08:50,000 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:11:42,086 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7f5bdbaa67d0> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 11:11:42,318 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7f5bdb8d1050> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 11:11:58,757 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:11:59,056 - INFO - Nmap scan detected from 34.107.221.82. Score: 7.0
+2025-04-21 11:11:59,056 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:11:59,057 - INFO - Attempting to block IP 34.107.221.82
+2025-04-21 11:11:59,062 - WARNING - BLOCKED 34.107.221.82 - Nmap SYN scan attack detected
+2025-04-21 11:11:59,066 - INFO - Successfully verified block for 34.107.221.82
+2025-04-21 11:12:02,470 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:12:02,476 - INFO - Nmap scan detected from 34.107.243.93. Score: 6.0
+2025-04-21 11:12:02,476 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': False, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:12:02,476 - INFO - Attempting to block IP 34.107.243.93
+2025-04-21 11:12:02,482 - WARNING - BLOCKED 34.107.243.93 - Nmap SYN scan attack detected
+2025-04-21 11:12:02,487 - INFO - Successfully verified block for 34.107.243.93
+2025-04-21 11:12:04,947 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:12:05,133 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:12:05,862 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:12:06,834 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:15:38,469 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:15:45,757 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:16:09,532 - INFO - Nmap scan detected from 192.168.124.238. Score: 7.0
+2025-04-21 11:16:09,533 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': True, 'typical_range': False, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:16:09,533 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 11:16:09,538 - WARNING - BLOCKED 192.168.124.238 - Nmap SYN scan attack detected
+2025-04-21 11:16:09,543 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 11:16:18,455 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:17:16,780 - INFO - Nmap scan detected from 192.168.124.84. Score: 6
+2025-04-21 11:17:16,780 - INFO - Detection indicators: {'timing_match': True, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': False, 'typical_range': False, 'consistent_timing': True, 'syn_flags': False, 'low_rate': True}
+2025-04-21 11:17:16,780 - INFO - Attempting to block IP 192.168.124.84
+2025-04-21 11:17:16,786 - WARNING - BLOCKED 192.168.124.84 - Nmap Unknown scan attack detected
+2025-04-21 11:17:16,793 - INFO - Successfully verified block for 192.168.124.84
+2025-04-21 11:17:25,552 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 11:18:16,526 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:21:22,552 - INFO - Nmap scan detected from 192.168.124.238. Score: 8.0
+2025-04-21 11:21:22,552 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 11:21:22,552 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 11:21:22,558 - WARNING - BLOCKED 192.168.124.238 - Nmap SYN scan attack detected
+2025-04-21 11:21:22,564 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 11:21:31,101 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 11:21:31,359 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 12:30:46,295 - INFO - Nmap scan detected from 13.107.5.93. Score: 6.5
+2025-04-21 12:30:46,295 - INFO - Detection indicators: {'timing_match': True, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': False, 'consistent_timing': True, 'syn_flags': False, 'low_rate': True}
+2025-04-21 12:30:46,295 - INFO - Attempting to block IP 13.107.5.93
+2025-04-21 12:30:46,301 - WARNING - BLOCKED 13.107.5.93 - Nmap Unknown scan attack detected
+2025-04-21 12:30:46,307 - INFO - Successfully verified block for 13.107.5.93
+2025-04-21 12:30:57,420 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:31:05,138 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:31:06,643 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 12:31:19,102 - WARNING - UDP FLOOD ATTACK from 192.168.124.238
+2025-04-21 12:31:22,724 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 12:31:22,725 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 12:31:22,736 - WARNING - BLOCKED 192.168.124.238 - UDP flood attack detected
+2025-04-21 12:31:22,744 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 12:32:57,277 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:33:35,903 - WARNING - UDP FLOOD ATTACK from 192.168.124.238
+2025-04-21 12:33:40,253 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 12:33:40,253 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 12:33:40,264 - WARNING - BLOCKED 192.168.124.238 - UDP flood attack detected
+2025-04-21 12:33:40,271 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 12:34:15,405 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:34:15,890 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:34:16,293 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:34:16,679 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 12:34:42,123 - INFO - Nmap scan detected from 192.168.124.238. Score: 6.0
+2025-04-21 12:34:42,123 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': False, 'syn_flags': True, 'low_rate': True}
+2025-04-21 12:34:42,123 - INFO - Attempting to block IP 192.168.124.238
+2025-04-21 12:34:42,133 - WARNING - BLOCKED 192.168.124.238 - Nmap SYN scan attack detected
+2025-04-21 12:34:42,142 - INFO - Successfully verified block for 192.168.124.238
+2025-04-21 12:34:50,487 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 12:35:56,559 - INFO - Nmap scan detected from 172.217.166.14. Score: 7.0
+2025-04-21 12:35:56,559 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 12:35:56,559 - INFO - Attempting to block IP 172.217.166.14
+2025-04-21 12:35:56,567 - WARNING - BLOCKED 172.217.166.14 - Nmap SYN scan attack detected
+2025-04-21 12:35:56,576 - INFO - Successfully verified block for 172.217.166.14
+2025-04-21 12:36:12,175 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 12:39:59,917 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 13:02:21,888 - INFO - Nmap scan detected from 10.1.30.141. Score: 6
+2025-04-21 13:02:21,890 - INFO - Detection indicators: {'timing_match': True, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': False, 'typical_range': False, 'consistent_timing': True, 'syn_flags': False, 'low_rate': True}
+2025-04-21 13:02:21,890 - INFO - Attempting to block IP 10.1.30.141
+2025-04-21 13:02:21,900 - WARNING - BLOCKED 10.1.30.141 - Nmap FIN scan attack detected
+2025-04-21 13:02:21,908 - INFO - Successfully verified block for 10.1.30.141
+2025-04-21 13:02:42,805 - ERROR - Failed to send email alert: [Errno -3] Temporary failure in name resolution
+2025-04-21 13:02:52,630 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 13:04:24,810 - WARNING - UDP FLOOD ATTACK from 10.1.10.10
+2025-04-21 13:04:34,825 - ERROR - Failed to send email alert: [Errno -3] Temporary failure in name resolution
+2025-04-21 13:04:34,825 - INFO - Attempting to block IP 10.1.10.10
+2025-04-21 13:04:34,829 - WARNING - BLOCKED 10.1.10.10 - UDP flood attack detected
+2025-04-21 13:04:34,834 - INFO - Successfully verified block for 10.1.10.10
+2025-04-21 13:05:22,558 - WARNING - UDP FLOOD ATTACK from 10.1.28.1
+2025-04-21 13:05:42,580 - ERROR - Failed to send email alert: [Errno -3] Temporary failure in name resolution
+2025-04-21 13:05:42,580 - INFO - Attempting to block IP 10.1.28.1
+2025-04-21 13:05:42,590 - WARNING - BLOCKED 10.1.28.1 - UDP flood attack detected
+2025-04-21 13:05:42,598 - INFO - Successfully verified block for 10.1.28.1
+2025-04-21 13:07:02,339 - INFO - Nmap scan detected from 10.1.30.118. Score: 6.0
+2025-04-21 13:07:02,340 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': False, 'syn_flags': True, 'low_rate': True}
+2025-04-21 13:07:02,340 - INFO - Attempting to block IP 10.1.30.118
+2025-04-21 13:07:02,348 - WARNING - BLOCKED 10.1.30.118 - Nmap SYN scan attack detected
+2025-04-21 13:07:02,356 - INFO - Successfully verified block for 10.1.30.118
+2025-04-21 13:07:22,379 - ERROR - Failed to send email alert: [Errno -3] Temporary failure in name resolution
+2025-04-21 13:07:43,121 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 13:08:45,243 - WARNING - UDP FLOOD ATTACK from 10.1.30.118
+2025-04-21 13:09:05,263 - ERROR - Failed to send email alert: [Errno -3] Temporary failure in name resolution
+2025-04-21 13:09:05,263 - INFO - Attempting to block IP 10.1.30.118
+2025-04-21 13:09:05,276 - WARNING - BLOCKED 10.1.30.118 - UDP flood attack detected
+2025-04-21 13:09:05,284 - INFO - Successfully verified block for 10.1.30.118
+2025-04-21 13:10:36,805 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 13:11:54,695 - WARNING - WARNING: secure_file.txt has been modified at 2025-04-21 13:11:54.695225
+2025-04-21 13:12:17,598 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 13:42:30,198 - WARNING - UDP FLOOD ATTACK from 192.168.8.7
+2025-04-21 13:42:35,350 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 13:42:35,351 - INFO - Attempting to block IP 192.168.8.7
+2025-04-21 13:42:35,362 - WARNING - BLOCKED 192.168.8.7 - UDP flood attack detected
+2025-04-21 13:42:35,370 - INFO - Successfully verified block for 192.168.8.7
+2025-04-21 13:42:38,380 - INFO - Nmap scan detected from 192.168.8.84. Score: 6
+2025-04-21 13:42:38,380 - INFO - Detection indicators: {'timing_match': True, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': False, 'typical_range': False, 'consistent_timing': True, 'syn_flags': False, 'low_rate': True}
+2025-04-21 13:42:38,380 - INFO - Attempting to block IP 192.168.8.84
+2025-04-21 13:42:38,391 - WARNING - BLOCKED 192.168.8.84 - Nmap Unknown scan attack detected
+2025-04-21 13:42:38,396 - INFO - Successfully verified block for 192.168.8.84
+2025-04-21 13:42:48,605 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 13:43:07,089 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 14:29:41,368 - WARNING - UDP FLOOD ATTACK from 192.168.8.56
+2025-04-21 14:30:06,218 - INFO - Alert email sent: UDP Flood Attack
+2025-04-21 14:30:06,218 - INFO - Attempting to block IP 192.168.8.56
+2025-04-21 14:30:06,233 - WARNING - BLOCKED 192.168.8.56 - UDP flood attack detected
+2025-04-21 14:30:06,243 - INFO - Successfully verified block for 192.168.8.56
+2025-04-21 14:31:59,574 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 14:32:06,648 - INFO - IDS monitor shutdown initiated by user
+2025-04-21 14:32:26,205 - INFO - Nmap scan detected from 192.168.8.56. Score: 6.5
+2025-04-21 14:32:26,205 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': False, 'typical_range': True, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-21 14:32:26,205 - INFO - Attempting to block IP 192.168.8.56
+2025-04-21 14:32:26,211 - WARNING - BLOCKED 192.168.8.56 - Nmap SYN scan attack detected
+2025-04-21 14:32:26,217 - INFO - Successfully verified block for 192.168.8.56
+2025-04-21 14:32:35,111 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-21 14:33:55,623 - WARNING - WARNING: secure_file.txt has been modified at 2025-04-21 14:33:55.623728
+2025-04-21 14:34:50,831 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7fb074d1ce50> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 14:34:51,061 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7fb074d0c050> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 14:40:43,444 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7fb074ceeb90> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 14:40:46,444 - WARNING - Socket <scapy.arch.linux.L2ListenSocket object at 0x7fb074ceff90> failed with '[Errno 100] Network is down'. It was closed.
+2025-04-21 14:40:49,734 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 13:05:12,117 - INFO - Nmap scan detected from 192.168.70.132. Score: 7.0
+2025-04-23 13:05:12,119 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': True, 'common_ports': True, 'many_unique_ports': True, 'typical_range': False, 'consistent_timing': False, 'syn_flags': True, 'low_rate': True}
+2025-04-23 13:05:12,119 - INFO - Attempting to block IP 192.168.70.132
+2025-04-23 13:05:12,129 - WARNING - BLOCKED 192.168.70.132 - Nmap SYN scan attack detected
+2025-04-23 13:05:12,138 - INFO - Successfully verified block for 192.168.70.132
+2025-04-23 13:05:17,335 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-23 13:05:17,351 - WARNING - UDP FLOOD ATTACK from 192.168.70.204
+2025-04-23 13:05:21,532 - INFO - Alert email sent: UDP Flood Attack
+2025-04-23 13:05:21,532 - INFO - Attempting to block IP 192.168.70.204
+2025-04-23 13:05:21,544 - WARNING - BLOCKED 192.168.70.204 - UDP flood attack detected
+2025-04-23 13:05:21,554 - INFO - Successfully verified block for 192.168.70.204
+2025-04-23 13:05:44,778 - INFO - Nmap scan detected from 20.42.73.28. Score: 6.0
+2025-04-23 13:05:44,778 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': False, 'many_unique_ports': True, 'typical_range': False, 'consistent_timing': True, 'syn_flags': True, 'low_rate': True}
+2025-04-23 13:05:44,778 - INFO - Attempting to block IP 20.42.73.28
+2025-04-23 13:05:44,790 - WARNING - BLOCKED 20.42.73.28 - Nmap SYN scan attack detected
+2025-04-23 13:05:44,795 - INFO - Successfully verified block for 20.42.73.28
+2025-04-23 13:05:49,895 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 13:05:54,185 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 13:05:54,198 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-23 14:51:52,764 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 15:04:48,139 - WARNING - UDP FLOOD ATTACK from 192.168.70.84
+2025-04-23 15:04:58,421 - INFO - Alert email sent: UDP Flood Attack
+2025-04-23 15:04:58,422 - INFO - Attempting to block IP 192.168.70.84
+2025-04-23 15:04:58,435 - WARNING - BLOCKED 192.168.70.84 - UDP flood attack detected
+2025-04-23 15:04:58,444 - INFO - Successfully verified block for 192.168.70.84
+2025-04-23 15:06:23,361 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 15:06:28,810 - INFO - IDS monitor shutdown initiated by user
+2025-04-23 15:06:44,602 - INFO - Nmap scan detected from 192.168.70.132. Score: 6.0
+2025-04-23 15:06:44,602 - INFO - Detection indicators: {'timing_match': False, 'sequential_ports': False, 'common_ports': True, 'many_unique_ports': True, 'typical_range': True, 'consistent_timing': False, 'syn_flags': True, 'low_rate': True}
+2025-04-23 15:06:44,602 - INFO - Attempting to block IP 192.168.70.132
+2025-04-23 15:06:44,611 - WARNING - BLOCKED 192.168.70.132 - Nmap SYN scan attack detected
+2025-04-23 15:06:44,619 - INFO - Successfully verified block for 192.168.70.132
+2025-04-23 15:06:53,102 - INFO - Alert email sent: Nmap Scan Detected
+2025-04-23 15:08:32,133 - WARNING - UDP FLOOD ATTACK from 192.168.70.55
+2025-04-23 15:08:41,311 - INFO - Alert email sent: UDP Flood Attack
+2025-04-23 15:08:41,311 - INFO - Attempting to block IP 192.168.70.55
+2025-04-23 15:08:41,323 - WARNING - BLOCKED 192.168.70.55 - UDP flood attack detected
+2025-04-23 15:08:41,330 - INFO - Successfully verified block for 192.168.70.55
+2025-04-23 15:11:10,416 - INFO - IDS monitor shutdown initiated by user
